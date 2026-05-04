@@ -29,7 +29,7 @@ El proyecto está organizado en módulos estándar de Android:
 1. Clonar el repositorio:
 
    ```bash
-   git clone https://github.com/TU_USUARIO/TU_REPO.git
+   git clone https://github.com/JordyRetana/Negocio_Finanzas
    ```
 
 2. Abrir el proyecto en Android Studio
