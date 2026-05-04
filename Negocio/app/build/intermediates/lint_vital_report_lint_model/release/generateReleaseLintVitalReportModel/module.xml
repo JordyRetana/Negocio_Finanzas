@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="C:\Users\jreta\Downloads\NegocioGlass_AndroidStudio_v2\negocioglass_v2\app"
+    name=":app"
+    type="APP"
+    maven="NegocioGlass:app:unspecified"
+    agpVersion="8.5.2"
+    buildFolder="build"
+    bootClassPath="C:\Users\jreta\AppData\Local\Android\Sdk\platforms\android-34\android.jar;C:\Users\jreta\AppData\Local\Android\Sdk\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
