@@ -1,5 +1,6 @@
 
-# 📊 NegocioGlass - App de Finanzas
+# 📊 
+Negocio_Finanzas - App de Finanzas
 
 Aplicación móvil desarrollada en Android Studio que permite llevar el control de inversiones y ganancias de manera sencilla y organizada.
 
